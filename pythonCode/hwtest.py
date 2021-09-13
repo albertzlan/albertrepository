@@ -37,7 +37,6 @@ class solution
         
         print(repL)
 
-
 if __name__==__main__
     testin=input()
     s=solution()
