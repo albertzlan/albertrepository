@@ -2,8 +2,6 @@ def hj74(testsr):
     srcin=str(testsr)
     dstout=[]
     
-    
-    
     if "\"" in srcin:
         firstsplit=srcin.split("\"")
         #print(firstsplit)
