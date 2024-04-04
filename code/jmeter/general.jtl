@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1711021631669,1223,JDBC Request,200,OK,Thread Group-SQL 1-2,text,true,,76,0,5,5,null,1220,0,1190
+1711021631699,859,JDBC Request,200,OK,Thread Group-SQL 1-3,text,true,,76,0,4,4,null,858,0,852
+1711021631691,452,JDBC Request,200,OK,Thread Group-SQL 1-4,text,true,,76,0,4,4,null,452,0,451
+1711021631691,1641,JDBC Request,200,OK,Thread Group-SQL 1-1,text,true,,76,0,4,4,null,1640,0,1636
+1711021631737,70,JDBC Request,200,OK,Thread Group-SQL 1-5,text,true,,76,0,1,1,null,69,0,68
